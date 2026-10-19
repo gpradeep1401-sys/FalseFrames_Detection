@@ -1,0 +1,36 @@
+Service Provider
+
+Login,
+Browse Datasets and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Video Detection Type, 
+View Video Detection Type Ratio, 
+Download Predicted Data Sets, 
+View Video Predicted Type Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+Predict Video Detection Type,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Fid,	
+video _ id,	
+title,	
+channel _ title,	
+publish _ time,	
+tags,	
+views,	
+likes,	
+dislikes,	
+thumbnail _ link,	
+description,
+Prediction.
+
